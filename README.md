@@ -8,4 +8,6 @@ The `village` is a workspace name, so if You wanna create a fork or something, f
 ## Using the datapack
 Once You have cloned this repo, just copy it (name it whatever You want, just make sure that the `data` directory and `pack.mcmeta` files are located in the directory You'll copy), and paste it to the `worldName/datapacks`. If You are already loaded in a world, use the command `/reload`. If not, it will already be loaded.
 To find the structure, use the `/locate` command. For example: 
-``` /locate structure village:village_grass
+```
+/locate structure village:village_grass
+```
