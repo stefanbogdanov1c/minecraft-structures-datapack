@@ -8,8 +8,8 @@
   },
   "structures": [
     {
-    "structure": "village:village_grass",
-    "weight": 1
+      "structure": "village:village_grass",
+      "weight": 1
     }
   ]
 }
