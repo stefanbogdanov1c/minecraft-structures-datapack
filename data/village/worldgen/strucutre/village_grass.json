@@ -3,7 +3,7 @@
   "adapt_noise": false,
   "spawn_overrides": [],
   "type": "minecraft:jigsaw",
-  "start_pool": "villages:village_grass/town_centers",
+  "start_pool": "village:village_grass/town_centers",
   "size": 7,
   "step": "surface_structures",
   "start_height": {
