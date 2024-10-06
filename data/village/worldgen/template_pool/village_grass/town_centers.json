@@ -1,0 +1,13 @@
+{
+  "name": "village:village_grass/town_centers",
+  "fallback":"minecraft:empty",
+  "elements": [{
+    "weight":1,
+    "element": {
+      "location":"village:village_grass/town_centers/town_center",
+      "processors": "minecraft:empty",
+      "projection": "rigid",
+      "element_type": "minecraft:single_pool_element"
+    }
+  }]
+}
