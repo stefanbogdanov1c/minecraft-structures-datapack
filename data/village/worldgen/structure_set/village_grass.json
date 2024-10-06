@@ -3,12 +3,12 @@
     "type": "minecraft:random_spread",
     "salt": 19011220,
     "separation": 8,
-    "spacing": 23,
+    "spacing": 34,
     "spread_type": "triangular"
   },
   "structures": [
     {
-    "strucutre": "village:village_grass",
+    "structure": "village:village_grass",
     "weight": 1
     }
   ]
