@@ -1,5 +1,5 @@
 # Minecraft structures datapack
-A repo for storing custom Minecraft buildings/villages as a datapack which can be included into Your world.
+A repo for storing custom Minecraft buildings/villages in a datapack which can be included into Your world.
 
 ## Adding structures
 Use a Minecraft structure block to generate a `.nbt` file, and add it to the `data/village/structure` directory, if You want to make a single building, or if You wanna create a larger project, add it to `data/village/structure/project_name`.
