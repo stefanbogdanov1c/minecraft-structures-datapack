@@ -1,7 +1,7 @@
 {
   "biomes": "minecraft:plains",
   "adapt_noise": false,
-  "spawn_overrides": [],
+  "spawn_overrides": {},
   "type": "minecraft:jigsaw",
   "start_pool": "village:village_grass/town_centers",
   "size": 7,
